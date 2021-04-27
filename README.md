@@ -1,5 +1,5 @@
 # Abercrombie Client-Side Developer Skill Assessment
-1. Clone this repository.
+1. Clone this repository....
 2. Complete exercises below by creating/modifying code in their respective folders. You can architect the project how you like re: folder structure, how you name your files, etc. Use your best judgement as a developer.
 3. Push the code to your own public Git repository, and send the link to your recruiter / rep.
 4. Pretend your code is going into a PRODUCTION environment, or that you are writing a pull request for an established open source project. Do not rush these exercises or cut corners in the name of speed. We aren't interested in the code you can write under pressure; no one writes amazing code when they are rushing. This is your chance to show off. Write your best code.
